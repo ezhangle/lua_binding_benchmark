@@ -1,8 +1,8 @@
 Selene,0.1-187-g1b6b3ff,1b6b3ff9ecea0e5ef0df1dfbdb03028d2264ff20,https://github.com/jeremyong/Selene.git
-kaguya,v1.1.0-60-g06ba2b4,06ba2b4d8ed0d2476f400a2fd9ffaefcc0a80021,https://github.com/satoren/kaguya.git
-lua-intf,remotes/origin/HEAD,d6f17a8a474814d337e1dd867238e1d5ba1b7e5c,https://github.com/SteveKChiu/lua-intf.git
+kaguya,1.2.1-26-ga83d79a,a83d79a13ef9c7a0769057c1aec86652fc13c26a,https://github.com/satoren/kaguya.git
+lua-intf,heads/master,d6f17a8a474814d337e1dd867238e1d5ba1b7e5c,https://github.com/SteveKChiu/lua-intf.git
 luabind-deboostified,v0.9-251-g6631a38,6631a385c1286b13aa496f739266685ddb1aff18,https://github.com/Wohlhabend-Networks/luabind-deboostified.git
 luacppinterface,v1.2-1-gddac652,ddac652e0091a90484b25cbfe283d805624bb549,https://github.com/davidsiaw/luacppinterface.git
-luwra,0.3.0-76-g42f034e,42f034eefd139f0e149291713ccf22490f815bd4,https://github.com/vapourismo/luwra.git
+luwra,0.3.1-1-g4122da7,4122da7a23492f10686980aab22a8edd85bf7474,https://github.com/vapourismo/luwra.git
 sol,v1.1.0-87-ga5e24b4,a5e24b4fa2ef13eaee0647e230c69956d615ce86,https://github.com/Rapptz/sol.git
-sol2,v2.5.1,2b45f3a4e8440219109c690cb490262227551340,https://github.com/ThePhD/sol2.git
+sol2,v2.8.10,76b73bdfab4475933c42e715fd98737a4699794a,https://github.com/ThePhD/sol2.git
